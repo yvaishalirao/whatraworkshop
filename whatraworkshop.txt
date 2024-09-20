@@ -8,4 +8,4 @@ git changed line 7 in main
 git b2 branch line 
 1
 2
-3
+6
