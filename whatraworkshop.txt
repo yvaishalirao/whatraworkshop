@@ -9,6 +9,8 @@ anyways
 hello
 b1b1 calling b1 in line 10
 line 11
+b2b2 
+this is line 10 in b2
 git b2 branch line 
 1
 2
