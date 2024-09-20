@@ -6,6 +6,8 @@ hahaha
 skill issue
 git changed line 7 in main
 hello
+b2b2 
+this is line 10 in b2
 git b2 branch line 
 1
 2
