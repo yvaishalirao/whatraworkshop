@@ -25,6 +25,10 @@ it will look something like this:
 - Go to the readme.md file and make necessary cnazges as per the instruction
 
 
+
+
+## SOME BASIC COMMANDS
+
 ## git status
 When you run git status, it gives you information like:
 - Tracked Files: Files that Git is already tracking.
@@ -32,13 +36,11 @@ When you run git status, it gives you information like:
 - Current Branch: The branch you are currently working on, whether it's main, some branch taht you've created.
 > git status
 
-
-## SOME BASIC COMMANDS
 ## git add
 This command stages the changes in your working directory, meaning it prepares all the modified or new files to be included in the next commit.
 
 To add an individual file
-> git add <filename>
+> git add **filename**
 
 Instead of adding files one by one (e.g., git add file1.txt, git add file2.txt), **git add .** stages all the files at once.
 
@@ -55,6 +57,21 @@ The command git push is used to upload your local commits to a remote repository
 
 Once you perform git add and git commit , git push would be the 3rd step.
 > git push origin branch_name
+
+## BRANCHES:
+Branches in Git are like parallel versions of your project. They allow you to work on different tasks , features or experiments without affecting the main project. 
+
+-To check all available branches:
+> git branch
+
+- To check remote branches
+> git branch -r
+
+- To create new branch
+> git branch new_branch_name
+
+- To move to another branch
+> git checkout branch_name
 
 
 
