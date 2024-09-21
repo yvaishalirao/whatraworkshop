@@ -45,6 +45,7 @@ Instead of adding files one by one (e.g., git add file1.txt, git add file2.txt),
 
 ## git commit
 > git commit -m 'initial message'
+
 The commit message helps you and others understand what changes were made and why. This is particularly useful when you look back at your project history later.
 
 ## git push
