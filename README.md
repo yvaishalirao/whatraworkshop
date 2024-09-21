@@ -1,7 +1,7 @@
 # GREETINGS! WELCOME TO THE GUIDE :)
 
 
-## FORKING A REPO
+## Forking a repo
  Makes a copy of **someone else’s repository** on GitHub under your account.This is your version of the project.
  > For a simple analogy: if a friend has a toy, forking is like getting your own copy of that toy to play with at home. Cloning is like borrowing it and bringing it to your house to play with.
  - On the top right corner of the repository page, you’ll see a button that says "Fork." Click it.
@@ -31,13 +31,11 @@
    git clone <repository-url>
    ```
 
-## CHANGING THE README.md FILE 
+## Changing the REDAME.md file
 - Go to the readme.md file and make necessary cnazges as per the instruction
 
 
-
-
-## SOME BASIC COMMANDS
+# SOME BASIC COMMANDS
 
 ## git status
 When you run git status, it gives you information like:
@@ -62,9 +60,7 @@ If you've made a lot of changes, it's faster than typing the file names individu
 ```bash
  git add .
  ```
-```bash
- 
- ```
+
 ## git commit
 ```bash
   git commit -m 'initial message'
