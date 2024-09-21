@@ -3,7 +3,7 @@ You'll find step-by-step instructions for common tasks. Tips for collaborating w
 
 
 
-## Forking a repo
+## Forking A Repo
  Makes a copy of **someone else’s repository** on GitHub under your account.This is your version of the project.
  > For a simple analogy: if a friend has a toy, forking is like getting your own copy of that toy to play with at home. Cloning is like borrowing it and bringing it to your house to play with.
  - On the top right corner of the repository page, you’ll see a button that says "Fork." Click it.
@@ -33,8 +33,8 @@ You'll find step-by-step instructions for common tasks. Tips for collaborating w
    git clone <repository-url>
    ```
 
-## Changing the REDAME.md file
-- Go to the readme.md file and make necessary cnazges as per the instruction
+## Changing the README.md file
+- Go to the readme.md file and make necessary changes as per the instruction
 
 
 # SOME BASIC COMMANDS
@@ -64,12 +64,14 @@ If you've made a lot of changes, it's faster than typing the file names individu
  ```
 
 ## git commit
+
+The commit message helps you and others understand what changes were made and why. This is particularly useful when you look back at your project history later
+
 ```bash
   git commit -m 'initial message'
  ```
 
-
-The commit message helps you and others understand what changes were made and why. This is particularly useful when you look back at your project history later.
+.
 
 ## git push
 The command **git push** is used to upload your local commits to a remote repository.Running git push sends those commits to a remote repository (like GitHub), making them available to others.
