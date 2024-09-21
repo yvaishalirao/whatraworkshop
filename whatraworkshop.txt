@@ -17,3 +17,4 @@ git b2 branch line
 56
 88
 6
+git reset head?

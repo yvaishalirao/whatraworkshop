@@ -21,6 +21,28 @@ it will look something like this:
  - GitHub will now create a copy of that repository in your own GitHub account.
  - You can add a description and click **Creating fork**
 
+ 1. **Log in to GitHub**: Ensure you are logged into your GitHub account.
+
+ 2. **Find the Repository**: Navigate to the repository you want to fork.
+
+ 3. **Fork the Repository**:
+   - Click the **Fork** button in the top right corner of the repository page.
+   - This creates a copy of the repository under your GitHub account.
+
+ 4. **Navigate to Your Fork**: After forking, you will be directed to your new repository.
+ ## Cloning the Forked Repository Locally
+
+ 1. **Copy the Repository URL**:
+   - Click the **Code** button on your forked repository page.
+   - Copy the URL (choose HTTPS or SSH).
+
+ 2. **Open Terminal (or Git Bash)**: Open your command line interface on your local machine.
+
+ 3. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+
+
 ## CHANGING THE README.md FILE 
 - Go to the readme.md file and make necessary cnazges as per the instruction
 
@@ -62,7 +84,7 @@ Once you perform **git add** and **git commit** , **git push** would be the 3rd 
 Branches in Git are like parallel versions of your project. They allow you to work on different tasks , features or experiments without affecting the main project.
 
  Some basic branch commands:
-```
+
 - To check all available branches:
 > git branch
 
@@ -74,7 +96,7 @@ Branches in Git are like parallel versions of your project. They allow you to wo
 
 - To move to another branch
 > git checkout branch_name
-```
+
 
 
 
