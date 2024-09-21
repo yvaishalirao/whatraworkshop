@@ -33,6 +33,17 @@ You'll find step-by-step instructions for common tasks. Tips for collaborating w
    git clone <repository-url>
    ```
 
+## Add a Collaborator
+
+To add a collaborator to your GitHub repository, follow these steps:
+
+1. Go to your repository on GitHub.
+2. Click on the "Settings" tab.
+3. In the left sidebar, click on "Manage access."
+4. Click on the "Invite teams or people" button.
+5. Enter the GitHub username or email address of the collaborator you want to add.
+6. Click "Add" and choose the permission level for the collaborator.
+
 ## Changing the README.md file
 - Go to the readme.md file and make necessary changes as per the instruction
 
