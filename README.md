@@ -102,11 +102,6 @@ Once you perform `git add` and `git commit` , `git push` would be the 3rd step.
 ```bash
 git push origin branch_name
 ```
-> **NOTE** <br>
-> it should be in the order of :<br>
-> `git add`<br>
-> `git commit`<br>
-> `git push`
 
 
 
