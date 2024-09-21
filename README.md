@@ -58,6 +58,7 @@ When you run git status, it gives you information like:
 - Current Branch: The branch you are currently working on, whether it's main, some branch taht you've created.
 ```bash
  git status
+ ```
 
 ## git add
 This command stages the changes in your working directory, meaning it prepares all the modified or new files to be included in the next commit.
@@ -65,6 +66,7 @@ This command stages the changes in your working directory, meaning it prepares a
 To add an individual file
 ```bash
  git add **filename**
+ ```
 
 Instead of adding files one by one (e.g., git add file1.txt, git add file2.txt), **git add .** stages all the files at once.
 
