@@ -107,6 +107,68 @@ Branches in Git are like parallel versions of your project. They allow you to wo
 ```
 
 
+# JUST THE COMMANDS:
+ **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   ```
+
+   **Check Status**:
+   ```bash
+   git status
+   ```
+
+   **Add one file**:
+   ```bash
+    git add <filename>
+   ```
+
+   **Add All Files**:
+   ```bash
+    git add .
+   ```
+
+   **Commit Changes**:
+   ```bash
+    git commit -m 'commit message'
+   ```
+
+   **Push Changes To Branch**:
+   ```bash
+    git push origin <branchname>
+   ```
+
+   **To Check All Available Branches**:
+   ```bash
+    git branch
+   ```
+
+   **To Check Remote Branches**:
+   ```bash
+     git branch -r
+   ```
+
+   **To Create New Branch**:
+   ```bash
+    git branch <new-branchname>
+   ```
+
+   **To Move To Another Branch**:
+   ```bash
+    git checkout <branchname>
+   ```
+
+   <!-- 
+   **.**:
+   ```bash
+
+   ``` -->
+
+  
+
+
+
+
 
 
 
