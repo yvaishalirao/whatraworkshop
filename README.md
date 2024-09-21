@@ -104,9 +104,9 @@ git push origin branch_name
 ```
 > **NOTE** 
 > it should be in the order of 
-> git add
-> git commit 
-> git push
+> `git add`
+> `git commit` 
+> `git push`
 
 
 
