@@ -142,7 +142,7 @@ Branches in Git are like parallel versions of your project. They allow you to wo
    git status
    ```
 
-   **Add one file**:
+   **Add One file**:
    ```bash
     git add <filename>
    ```
@@ -187,6 +187,22 @@ Branches in Git are like parallel versions of your project. They allow you to wo
    ```bash
 
    ``` -->
+
+   ## if you're feeling nerdy , then checkout these other commands  
+   **Unstage Files**:
+   ```bash
+    git reset HEAD <file>
+   ```
+
+   **Undo The Last Commit (but keep the changes)**:
+   ```bash
+    git reset --soft HEAD~1
+   ```
+
+   **Discard Changes In Working Directory**:
+   ```bash
+    git checkout -- <file>
+   ```
 
   
 
