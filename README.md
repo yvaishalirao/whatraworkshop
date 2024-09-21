@@ -102,7 +102,7 @@ Once you perform **git add** and **git commit** , **git push** would be the 3rd 
 ```bash
 git push origin branch_name
 ```
-> **NOTE** `
+> **NOTE** 
 > it should be in the order of 
 > git add
 > git commit 
