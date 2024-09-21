@@ -1,4 +1,6 @@
 # GREETINGS! WELCOME TO THE GUIDE :)
+You'll find step-by-step instructions for common tasks. Tips for collaborating with others are included as well. Whether you're a beginner or looking to improve, this guide is for you!
+
 
 
 ## Forking a repo
