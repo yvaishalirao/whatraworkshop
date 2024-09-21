@@ -41,7 +41,7 @@ it will look something like this:
  3. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-
+   ```
 
 ## CHANGING THE README.md FILE 
 - Go to the readme.md file and make necessary cnazges as per the instruction
