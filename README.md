@@ -98,14 +98,18 @@ The commit message helps you and others understand what changes were made and wh
 ## git push
 The command **git push** is used to upload your local commits to a remote repository.Running git push sends those commits to a remote repository (like GitHub), making them available to others.
 
-Once you perform **git add** and **git commit** , **git push** would be the 3rd step.
+Once you perform `git add` and `git commit` , `git push` would be the 3rd step.
 ```bash
 git push origin branch_name
 ```
 > **NOTE** 
+
 > it should be in the order of 
+
 > `git add`
-> `git commit` 
+
+> `git commit`
+
 > `git push`
 
 
