@@ -53,15 +53,17 @@ If you've made a lot of changes, it's faster than typing the file names individu
 The commit message helps you and others understand what changes were made and why. This is particularly useful when you look back at your project history later.
 
 ## git push
-The command git push is used to upload your local commits to a remote repository.Running git push sends those commits to a remote repository (like GitHub), making them available to others.
+The command **git push** is used to upload your local commits to a remote repository.Running git push sends those commits to a remote repository (like GitHub), making them available to others.
 
-Once you perform git add and git commit , git push would be the 3rd step.
+Once you perform **git add** and **git commit** , **git push** would be the 3rd step.
 > git push origin branch_name
 
 ## BRANCHES:
-Branches in Git are like parallel versions of your project. They allow you to work on different tasks , features or experiments without affecting the main project. 
+Branches in Git are like parallel versions of your project. They allow you to work on different tasks , features or experiments without affecting the main project.
 
--To check all available branches:
+ Some basic branch commands:
+```
+- To check all available branches:
 > git branch
 
 - To check remote branches
@@ -72,6 +74,7 @@ Branches in Git are like parallel versions of your project. They allow you to wo
 
 - To move to another branch
 > git checkout branch_name
+```
 
 
 
