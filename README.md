@@ -37,7 +37,7 @@ You'll find step-by-step instructions for common tasks. Tips for collaborating w
 - Go to the readme.md file and make necessary changes as per the instruction
 
 
-# SOME BASIC COMMANDS
+## Some Basic Commands
 
 ## git status
 When you run git status, it gives you information like:
@@ -81,27 +81,27 @@ Once you perform **git add** and **git commit** , **git push** would be the 3rd 
 git push origin branch_name
 ```
 
-## BRANCHES:
+## branching:
 Branches in Git are like parallel versions of your project. They allow you to work on different tasks , features or experiments without affecting the main project.
 
  Some basic branch commands:
 
-- To check all available branches:
+- **To check all available branches:**
 ```bash
  git branch
 ```
-- To check remote branches
+- **To check remote branches**
 ```bash
  git branch -r
 ```
 
 
-- To create new branch
+- **To create new branch**
 ```bash
  git branch new_branch_name
 ```
 
-- To move to another branch
+- **To move to another branch**
 ```bash
  git checkout branch_name
 ```
