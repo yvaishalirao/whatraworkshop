@@ -44,6 +44,17 @@ To add a collaborator to your GitHub repository, follow these steps:
 5. Enter the GitHub username or email address of the collaborator you want to add.
 6. Click "Add" and choose the permission level for the collaborator.
 
+## Accept a Collaborator Invitation
+
+If you receive an invitation to collaborate on a GitHub repository, follow these steps to accept it:
+
+1. Check your email for an invitation from GitHub.
+2. Click the link in the email, which will take you to the GitHub website.
+3. You may need to log in to your GitHub account if you're not already signed in.
+4. Once logged in, you will see an option to accept the invitation.
+5. Click "Accept invitation" to join the repository as a collaborator.
+
+
 ## Changing the README.md file
 - Go to the readme.md file and make necessary changes as per the instruction
 
